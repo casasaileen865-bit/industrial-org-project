@@ -8,12 +8,14 @@ The system provides a simple and organized platform to showcase the group's work
 ## Contribution of Members
 All members contributed equally to the completion of the project.
 
-- Agravante, Raven – 16.67%  
-- Fuentes, Meline – 16.67%  
-- Marquez, Eduardo – 16.67%  
-- Dagatan, Mark Lowes – 16.67%  
-- Mondoñedo, Merian – 16.67%  
-- Maningo, Anthony Kyle – 16.67%  
+- Steven Awing  
+- Eduardo Marquez  
+- Aileen Casas  
+- Mary Grace Dumdum  
+- Ronel Ampong  
+- Milkiee Sweet Sumile  
+- Christian Alline Limosnero  
+ 
 
 **Total Contribution: 100%**
 
